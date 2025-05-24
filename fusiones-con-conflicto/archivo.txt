@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-Modificación desde conflicto1
-=======
-Modificación desde conflicto2
-Este cambio viene desde conflicto2
->>>>>>> conflicto2
+Modificación desde conflicto4
+Este cambio viene desde conflicto4
