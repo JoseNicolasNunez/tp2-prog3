@@ -1,1 +1,2 @@
-Asi se resuelve un conflicto
+Este es el contenido resuelto final
+con lo mejor de ambas ramas o el que prefieras.
