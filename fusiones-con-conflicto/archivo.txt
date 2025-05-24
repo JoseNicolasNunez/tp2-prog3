@@ -1,1 +1,1 @@
-Este cambio es exclusivo de conflicto5
+Asi se resuelve un conflicto
